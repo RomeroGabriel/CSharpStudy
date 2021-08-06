@@ -1,3 +1,3 @@
-# CSharpStudy
+# Linq
 
-A simple repository to centralize C# content studded.
+Used LinqPad 5. Download at: https://www.linqpad.net/Download.aspx
